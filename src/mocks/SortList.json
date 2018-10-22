@@ -1,0 +1,225 @@
+[
+{
+  "id":"0",
+  "titleImg":"../../../static/chen/img/pic01.jpg",
+  "lists":[
+    {
+      "id":"01",
+      "src":"../../../static/chen/img/w2.jpg",
+      "watchName":"赫柏林",
+      "watchDesc":"Classiques 经典系列 石英男表",
+      "currMoney":"1998",
+      "pastMoney":"2700",
+      "saleVolume":"5803"
+    },
+    {
+      "id":"02",
+      "src":"../../../static/chen/img/w1.jpg",
+      "watchName":"欧米茄",
+      "watchDesc":" 碟飞系列 机械男表",
+      "currMoney":"21,660",
+      "pastMoney":"28500",
+      "saleVolume":"1701"
+    },
+    {
+      "src":"../../../static/chen/img/w3.jpg",
+      "watchName":"梅花",
+      "watchDesc":" Air Master空霸系列 机械男表",
+      "currMoney":"7,395",
+      "pastMoney":"8700",
+      "saleVolume":"740"
+    },
+    {
+      "src":"../../../static/chen/img/w4.jpg",
+      "watchName":"依波路",
+      "watchDesc":" 机械——皇室系列 机械男表",
+      "currMoney":"9,040",
+      "pastMoney":"11,300",
+      "saleVolume":"516"
+    },
+    {
+      "id":"05",
+      "src":"../../../static/chen/img/w5.jpg",
+      "watchName":"欧米茄",
+      "watchDesc":" 碟飞系列 机械男表",
+      "currMoney":"21,450",
+      "pastMoney":"27,500",
+      "saleVolume":"374"
+    },
+    {
+      "id":"06",
+      "src":"../../../static/chen/img/w6.jpg",
+      "watchName":"赫柏林",
+      "watchDesc":"Classiques 经典系列 石英男表",
+      "currMoney":"1998",
+      "pastMoney":"2700",
+      "saleVolume":"5803"
+    }
+  ]
+},
+{
+"id":"1",
+"titleImg":"../../../static/chen/img/pic02.jpg",
+"lists":[
+{
+  "id":"03",
+"src":"../../../static/peng/id03-0.jpg",
+"watchName":"古驰",
+"watchDesc":" Gucci Dive系列 石英男表",
+"currMoney":"9,350",
+"pastMoney":"11,000",
+"saleVolume":"12"
+},
+{
+"src":"../../../static/chen/img/ww2.jpg",
+"watchName":"古驰",
+"watchDesc":"  石英男表",
+"currMoney":"8,925",
+"pastMoney":"10,500",
+"saleVolume":"6"
+},
+{
+"src":"../../../static/chen/img/ww3.jpg",
+"watchName":"阿玛尼",
+"watchDesc":"  RENATO系列 石英男表",
+"currMoney":"2,441",
+"pastMoney":"3,390",
+"saleVolume":"311"
+},
+{
+"src":"../../../static/chen/img/ww4.jpg",
+"watchName":"荣汉斯",
+"watchDesc":"  max bill系列 石英中性表",
+"currMoney":"5,468",
+"pastMoney":"5,880",
+"saleVolume":"516"
+},
+{
+"src":"../../../static/chen/img/ww5.jpg",
+"watchName":"阿玛尼",
+"watchDesc":"  时尚女表系列 石英女表",
+"currMoney":"1,943",
+"pastMoney":"2,990",
+"saleVolume":"267"
+},
+{
+"src":"../../../static/chen/img/ww6.jpg",
+"watchName":"爱罗",
+"watchDesc":" Renaissance 文艺复兴系列 石英男表",
+"currMoney":"2,700",
+"pastMoney":"4,500",
+"saleVolume":"96"
+}
+]
+},
+{
+"id":"2",
+"titleImg":"../../../static/chen/img/pic03.jpg",
+"lists":[
+{
+  "id":"04",
+"src":"../../../static/peng/id04-0.jpg",
+"watchName":"欧米茄",
+"watchDesc":" 碟飞系列 机械男表",
+"currMoney":"21,660",
+"pastMoney":"28500",
+"saleVolume":"1701"
+},
+{
+"src":"../../../static/chen/img/w8.jpg",
+"watchName":"梅花",
+"watchDesc":" Air Master空霸系列 机械男表",
+"currMoney":"7,395",
+"pastMoney":"8700",
+"saleVolume":"740"
+},
+{
+"src":"../../../static/chen/img/w9.jpg",
+"watchName":"依波路",
+"watchDesc":" 机械——皇室系列 机械男表",
+"currMoney":"9,040",
+"pastMoney":"11,300",
+"saleVolume":"516"
+},
+{
+"src":"../../../static/chen/img/w10.jpg",
+"watchName":"欧米茄",
+"watchDesc":" 碟飞系列 机械男表",
+"currMoney":"21,450",
+"pastMoney":"27,500",
+"saleVolume":"374"
+},
+{
+"src":"../../../static/chen/img/w11.jpg",
+"watchName":"依波路",
+"watchDesc":" 机械——皇室系列 机械男表",
+"currMoney":"9,040",
+"pastMoney":"11,300",
+"saleVolume":"516"
+},
+{
+"src":"../../../static/chen/img/w12.jpg",
+"watchName":"欧米茄",
+"watchDesc":" 碟飞系列 机械男表",
+"currMoney":"21,450",
+"pastMoney":"27,500",
+"saleVolume":"374"
+}
+]
+},
+{
+"id":"3",
+"titleImg":"",
+"lists":[
+{
+"src":"../../../static/chen/img/ww2.jpg",
+"watchName":"CK",
+"watchDesc":"  男士Gents系列 石英男表",
+"currMoney":"1,911",
+"pastMoney":"2,450",
+"saleVolume":"82"
+},
+{
+"src":"../../../static/chen/img/ww8.jpg",
+"watchName":"梅花",
+"watchDesc":" Air Master空霸系列 机械男表",
+"currMoney":"7,395",
+"pastMoney":"8700",
+"saleVolume":"740"
+},
+{
+"src":"../../../static/chen/img/ww9.jpg",
+"watchName":"依波路",
+"watchDesc":" 机械——皇室系列 机械男表",
+"currMoney":"9,040",
+"pastMoney":"11,300",
+"saleVolume":"516"
+},
+{
+"src":"../../../static/chen/img/ww10.jpg",
+"watchName":"欧米茄",
+"watchDesc":" 碟飞系列 机械男表",
+"currMoney":"21,450",
+"pastMoney":"27,500",
+"saleVolume":"374"
+},
+{
+"src":"../../../static/chen/img/ww3.jpg",
+"watchName":"尖刀",
+"watchDesc":"  Qinggang清刚系列 石英男表",
+"currMoney":"2,999",
+"pastMoney":"3,528",
+"saleVolume":"177"
+},
+{
+"src":"../../../static/chen/img/ww12.jpg",
+"watchName":"东方双狮",
+"watchDesc":"  石英——LADY ROSE系列 石英女表",
+"currMoney":"1,768",
+"pastMoney":"2,080",
+"saleVolume":"38"
+}
+]
+}
+]
+
