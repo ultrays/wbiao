@@ -1,0 +1,145 @@
+{
+  "navMessage": [
+    {
+      "title":"推荐",
+      "url":"#",
+      "isChecked":true
+    },
+    {
+      "title":"购表指南",
+      "url":"#",
+      "isChecked":false
+    },
+    {
+      "title":"手表评测",
+      "url":"#",
+      "isChecked":false
+    },
+    {
+      "title":"品牌动态",
+      "url":"infolist",
+      "isChecked":false
+    },
+    {
+      "title":"时尚穿搭",
+      "url":"#",
+      "isChecked":false
+    },
+    {
+      "title":"对话人物",
+      "url":"#",
+      "isChecked":false
+    },
+    {
+      "title":"大讲堂",
+      "url":"#",
+      "isChecked":false
+    },
+    {
+      "title":"表友论",
+      "url":"#",
+      "isChecked":false
+    }
+  ],
+  "bannerMessage": [
+    {
+      "imgsrc": "../../../../static/dan/image/1536126699933025239.jpg",
+      "title": "知名国产手表品牌有哪些？"
+    },
+    {
+      "imgsrc": "../../../../static/dan/image/1535530836794132329.jpg",
+      "title": "劳力士海使都涨到10万了，你真不考虑一下其他奢侈运动表吗？"
+    },
+    {
+      "imgsrc": "../../../../static/dan/image/1536309488709214562.jpg",
+      "title": "抢先预测！2018年GPHG获奖名单会有谁？"
+    },
+    {
+      "imgsrc": "../../../../static/dan/image/1538129664486337750.jpg",
+      "title": "什么手表能够增值？"
+    },
+    {
+      "imgsrc": "../../../../static/dan/image/1539049979568240734.jpg",
+      "title": "入门手表买浪琴，是不错的选择"
+    }
+  ],
+  "sectionMessage": {
+    "messageSection1": [
+      {
+        "imgsrc": "../../../../static/dan/image/152211788418193.jpg",
+        "title": "4万元卡地亚表带一年就断？聊聊表带该如何保养",
+        "sort": "大讲堂",
+        "address": "第13课堂"
+      },
+      {
+        "imgsrc": "../../../../static/dan/image/152220649960305.jpg",
+        "title": "为什么会有人在闲鱼上卖1600元的水鬼？",
+        "sort": "表友论",
+        "address": "第10课堂"
+      }
+    ],
+    "messageSection2": [
+      {
+        "title": "劳力士海使都涨到10万了，你真不考虑一下其他奢侈运动表吗？",
+        "imgsrc": "../../../../static/dan/image/1539049979568240734.jpg",
+        "sort": "购表指南",
+        "time": "10-09"
+      },
+      {
+        "title": "一篇文章为你揭秘泰格豪雅",
+        "imgsrc": "../../../../static/dan/image/1538206907702043064.jpg",
+        "sort": "购表指南",
+        "time": "09-29"
+      },
+      {
+        "title": "江诗丹顿1955VS朗格1815",
+        "imgsrc": "../../../../static/dan/image/1538129664486337750.jpg",
+        "sort": "手表评测",
+        "time": "09-28"
+      },
+      {
+        "title": "为什么手表上的罗马数字时标用 IIII 来代替 IV？",
+        "imgsrc": "../../../../static/dan/image/1537256012916016407.jpg",
+        "sort": "手表评测",
+        "time": "09-18"
+      },
+      {
+        "title": "“璀璨星空”欧米茄星座系列腕表展于南宁万象城倾情开展",
+        "imgsrc": "../../../../static/dan/image/1539597698446525426.png",
+        "sort": "品牌动态",
+        "time": "10-16"
+      },
+      {
+        "title": "造物之悟 技艺之诣 积家中国巡展合肥站优雅揭幕",
+        "imgsrc": "../../../../static/dan/image/1539597057679657105.jpg",
+        "sort": "品牌动态",
+        "time": "10-16"
+      },
+      {
+        "title": "北京表——王冠逸的秋日时尚之选",
+        "imgsrc": "../../../../static/dan/image/1539164166541505950.jpg",
+        "sort": "时尚搭配",
+        "time": "10-10"
+      },
+      {
+        "title": "买得起保罗纽曼迪通拿的人，都是怎样生活的？",
+        "imgsrc": "../../../../static/dan/image/1536823065753306113.png",
+        "sort": "时尚搭配",
+        "time": "9-13"
+      },
+      {
+        "title": "一封来信，一枚真力时古董怀表，一段跨越时间和国界的“治愈”故事",
+        "imgsrc": "../../../../static/dan/image/1537509102414410200.png",
+        "sort": "对话人物",
+        "time": "9-21"
+      },
+      {
+        "title": "【表友故事】喜欢劳力士、沛纳海的他，却在做着“最柔软”的事业",
+        "imgsrc": "../../../../static/dan/image/1535437554213674404.jpg",
+        "sort": "对话人物",
+        "time": "8-28"
+      }
+    ]
+
+  }
+}

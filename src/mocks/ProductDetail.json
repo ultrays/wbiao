@@ -1,0 +1,449 @@
+[
+  {
+    "id":"01",
+    "swiper":[
+      {"imgG":"../../static/peng/swiper01.jpg"},
+      {"imgG":"../../static/peng/swiper02.jpg"},
+      {"imgG":"../../static/peng/swiper03.jpg"},
+      {"imgG":"../../static/peng/swiper04.jpg"},
+      {"imgG":"../../static/peng/swiper05.jpg"},
+      {"imgG":"../../static/peng/swiper06.jpg"}
+    ],
+    "price":"￥3120",
+    "yuanJ":"￥4200",
+    "name":"【天梭原装正品，全球联保两年】天梭TISSOT-力洛克系列 T006.407.16.033.00 自动机械男表",
+    "xinNeng":"机芯稳定性、精度、动力储存全面提升 力洛克T41.1.423.33全新升级版",
+    "xiaoShou":"3849",
+    "style":"真皮 白色 牛皮 1个",
+    "fuKuan":"每期170元×12期",
+    "youhui":[
+      {"rbimG":"../../static/peng/w1.jpg","rprice":"￥3120"},
+      {"rbimG":"../../static/peng/battery.jpg","rprice":"￥143"}
+    ],
+    "SPpingjia":[
+      {
+        "nameimg":"../../static/peng/pjpic.jpg",
+        "name":"浪漫之旅",
+        "plconment":"表不错，看图片以为表盘很大，实际上不大，看图",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic.jpg"},
+          {"imgs1":"../../static/peng/perpic02.jpg"}
+        ],
+        "style":"真皮：白色 共两张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"不将就",
+        "plconment":"蛮大气的，配件保修卡一应俱全。观望这块表很久了。相信万表。下次再买一块杜鲁尔，点赞。",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic03.jpg"},
+          {"imgs1":"../../static/peng/perpic04.jpg"}
+        ],
+        "style":"真皮：白色 共两张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"二狗子",
+        "plconment":"喜欢，低调奢华，就是有点硬，适应就好了",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic05.jpg"},
+          {"imgs1":"../../static/peng/perpic06.jpg"}
+        ],
+        "style":"真皮：白色 共两张图"
+      }
+    ],
+
+    "ZpinJia":[
+      {
+        "nameimg":"../../static/peng/pjpic02.jpg",
+        "name":"妃**",
+        "plconment":"精致*******************真是百搭",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic05.jpg"}
+        ],
+        "style":"2018-08-16 10：40：08真皮 银色"
+      },
+      {
+        "nameimg":"../../static/peng/pjpic03.jpg",
+        "name":"_*****水",
+        "plconment":"****挺好看的，物流挺快的",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic06.jpg"}
+        ],
+        "style":"2018-08-26 09：10：28真皮 银色"
+      },
+      {
+        "nameimg":"../../static/peng/pjpic04.jpg",
+        "name":"小土豆",
+        "plconment":"手表收到后很开心，正品，万表网卖东西很***，***一流，很值得***赖的网站",
+        "imgs":[
+          {"imgs1":"../../static/peng/pjpic07.jpg"}
+        ],
+        "style":"2018-07-14 16：16：28真皮 银色"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"k********y",
+        "plconment":"手表很漂亮，告诉你们，实物比照片好看的。分量，手感应该是正品。另外走时方面，特意和***对了时间精确到秒，带了一天只差一秒左右，推荐购买。",
+        "imgs":[
+          {"imgs1":"../../static/peng/pjpic08.jpg"},
+          {"imgs1":"../../static/peng/pjpic09.jpg"},
+          {"imgs1":"../../static/peng/pjpic10.jpg"}
+        ],
+        "style":"2018-07-14 16：16：28真皮 银色"
+      },
+      {
+        "nameimg":"../../static/peng/pjpic.jpg",
+        "name":"浪漫之旅",
+        "plconment":"表不错，看图片以为表盘很大，实际上不大，看图",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic.jpg"},
+          {"imgs1":"../../static/peng/perpic02.jpg"}
+        ],
+        "style":"真皮：白色 共两张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"不将就",
+        "plconment":"蛮大气的，配件保修卡一应俱全。观望这块表很久了。相信万表。下次再买一块杜鲁尔，点赞。",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic03.jpg"},
+          {"imgs1":"../../static/peng/perpic04.jpg"}
+        ],
+        "style":"真皮：白色 共两张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"二狗子",
+        "plconment":"喜欢，低调奢华，就是有点硬，适应就好了",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic05.jpg"},
+          {"imgs1":"../../static/peng/perpic06.jpg"}
+        ],
+        "style":"真皮：白色 共两张图"
+      }
+    ]
+
+  },
+  {
+    "id":"02",
+    "swiper":[
+      {"imgG":"../../static/peng/swiper1-01.jpg"},
+      {"imgG":"../../static/peng/swiper1-02.jpg"},
+      {"imgG":"../../static/peng/swiper1-03.jpg"},
+      {"imgG":"../../static/peng/swiper1-04.jpg"},
+      {"imgG":"../../static/peng/swiper1-02.jpg"}
+    ],
+    "price":"￥3380",
+    "yuanJ":"￥4450",
+    "name":"【天梭原装正品，全球联保两年】天梭TISSOT-力洛克系列 T41.1.183.33 自动机械女表",
+    "xinNeng":"无论白天还是夜晚，都令你散发迷人魅力",
+    "xiaoShou":"3111",
+    "style":"刚 银白 不锈钢 1个",
+    "fuKuan":"每期282元×12期",
+    "youhui":[
+      {"rbimG":"../../static/peng/id02.jpg","rprice":"￥3380"},
+      {"rbimG":"../../static/peng/battery.jpg","rprice":"￥143"}
+    ],
+    "SPpingjia":[
+      {
+        "nameimg":"../../static/peng/pjpic.jpg",
+        "name":"精***密",
+        "plconment":"手表非常精致，工艺精美！！服务非常到位",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-1.jpg"},
+          {"imgs1":"../../static/peng/id02-2.jpg"}
+        ],
+        "style":"刚 银白 不锈钢 共2张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"s******h",
+        "plconment":"点赞，爱你",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-3.jpg"},
+          {"imgs1":"../../static/peng/id02-4.jpg"},
+          {"imgs1":"../../static/peng/id02-5.jpg"}
+        ],
+        "style":"刚 银白 不锈钢 共3张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"f******y",
+        "plconment":"发货速度很快，看过去比较有质感，刚用一天大概快6s左右等过段日子硬干会更稳定点",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-6.jpg"},
+          {"imgs1":"../../static/peng/id02-7.jpg"},
+          {"imgs1":"../../static/peng/id02-8.jpg"}
+        ],
+        "style":"刚 银白 不锈钢 共3张图"
+      }
+    ],
+
+    "ZpinJia":[
+      {
+        "nameimg":"../../static/peng/shopIcon.jpg",
+        "name":"wb5191574",
+        "plconment":"很漂亮，老婆很喜欢",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-9.jpg"}
+        ],
+        "style":"2018-10-08 14：57：银色 不锈钢"
+      },
+      {
+        "nameimg":"../../static/peng/shopIcon.jpg",
+        "name":"太****翼",
+        "plconment":"蛮好的正品，老用户，继续万表",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-10.jpg"},
+          {"imgs1":"../../static/peng/id02-11.jpg"},
+          {"imgs1":"../../static/peng/id02-12.jpg"}
+        ],
+        "style":"2018-08-26 09：10：28 钢 白色 不锈钢"
+      },
+      {
+        "nameimg":"../../static/peng/shopIcon.jpg",
+        "name":"wb*****0527",
+        "plconment":"宝贝收到了，买了两块已经去验过货是正品，非常不错很喜欢，性价比很高，就是不知道走时准不准还有待观察，物流也很快，下次还会再来，也谢谢客服服务非常棒！",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-13.jpg"}
+        ],
+        "style":"2018-07-14 16：16：28"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"o****s",
+        "plconment":"可以，不错",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-14.jpg"},
+          {"imgs1":"../../static/peng/id02-15.jpg"},
+          {"imgs1":"../../static/peng/id02-16.jpg"}
+        ],
+        "style":"2018-07-14 16：16：28 钢 白银 不锈钢"
+      },
+      {
+        "nameimg":"../../static/peng/pjpic.jpg",
+        "name":"精***密",
+        "plconment":"手表非常精致，工艺精美！！服务非常到位",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-1.jpg"},
+          {"imgs1":"../../static/peng/id02-2.jpg"}
+        ],
+        "style":"刚 银白 不锈钢 共2张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"s******h",
+        "plconment":"点赞，爱你",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-3.jpg"},
+          {"imgs1":"../../static/peng/id02-4.jpg"},
+          {"imgs1":"../../static/peng/id02-5.jpg"}
+        ],
+        "style":"刚 银白 不锈钢 共3张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"f******y",
+        "plconment":"发货速度很快，看过去比较有质感，刚用一天大概快6s左右等过段日子硬干会更稳定点",
+        "imgs":[
+          {"imgs1":"../../static/peng/id02-6.jpg"},
+          {"imgs1":"../../static/peng/id02-7.jpg"},
+          {"imgs1":"../../static/peng/id02-8.jpg"}
+        ],
+        "style":"刚 银白 不锈钢 共3张图"
+      }
+    ]
+
+  },
+  {
+    "id":"03",
+    "swiper":[
+      {"imgG":"../../static/peng/id03-1.jpg"},
+      {"imgG":"../../static/peng/id03-2.jpg"},
+      {"imgG":"../../static/peng/id03-3.jpg"},
+      {"imgG":"../../static/peng/id03-4.jpg"},
+      {"imgG":"../../static/peng/id03-5.jpg"}
+    ],
+    "price":"￥9040",
+    "yuanJ":"￥11300",
+    "name":"依波路ErnestBorel-皇室系列 GS6155-2590 机械男表",
+    "xinNeng":"内敛白色表盘设计 沉稳睿智",
+    "xiaoShou":"510",
+    "style":"钢 白色 镶钻 不绣钢 1个",
+    "fuKuan":"每月754元×12期",
+    "youhui":[
+      {"rbimG":"../../static/peng/id03-6.jpg","rprice":"￥9040"},
+      {"rbimG":"../../static/peng/battery.jpg","rprice":"￥257"}
+    ],
+    "SPpingjia":[
+      {
+        "nameimg":"../../static/peng/pjpic.jpg",
+        "name":"汤****生",
+        "plconment":"带了很长一段时间才来评论，其中等货时间有点长，但物流挺给力的。感觉应该是正品，样式很漂亮，很喜欢，最近把钢带拆下来了换上了个皮带，感觉很棒。以后再买表，还会再来万表，支持！",
+        "imgs":[
+          {"imgs1":"../../static/peng/id03-7.jpg"},
+          {"imgs1":"../../static/peng/id03-8.jpg"},
+          {"imgs1":"../../static/peng/id03-9.jpg"}
+        ],
+        "style":"钢 白色 镶钻 不锈钢 共3张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"笑看人生",
+        "plconment":"已收到打开一看非常的漂亮，真是物超所值呀，和专卖店的一样是正品，客服非常的热心真是一次非常满意的网购呀？",
+        "imgs":[
+          {"imgs1":"../../static/peng/id03-10.jpg"},
+          {"imgs1":"../../static/peng/id03-11.jpg"},
+          {"imgs1":"../../static/peng/id03-12.jpg"}
+        ],
+        "style":"钢 白色 镶钻 不锈钢 共3张图"
+      }
+    ],
+
+    "ZpinJia":[
+      {
+        "nameimg":"../../static/peng/pjpic.jpg",
+        "name":"汤****生",
+        "plconment":"带了很长一段时间才来评论，其中等货时间有点长，但物流挺给力的。感觉应该是正品，样式很漂亮，很喜欢，最近把钢带拆下来了换上了个皮带，感觉很棒。以后再买表，还会再来万表，支持！",
+        "imgs":[
+          {"imgs1":"../../static/peng/id03-7.jpg"},
+          {"imgs1":"../../static/peng/id03-8.jpg"},
+          {"imgs1":"../../static/peng/id03-9.jpg"}
+        ],
+        "style":"钢 白色 镶钻 不锈钢 共3张图"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"笑看人生",
+        "plconment":"已收到打开一看非常的漂亮，真是物超所值呀，和专卖店的一样是正品，客服非常的热心真是一次非常满意的网购呀？",
+        "imgs":[
+          {"imgs1":"../../static/peng/id03-10.jpg"},
+          {"imgs1":"../../static/peng/id03-11.jpg"},
+          {"imgs1":"../../static/peng/id03-12.jpg"}
+        ],
+        "style":"钢 白色 镶钻 不锈钢 共3张图"
+      },
+      {
+        "nameimg":"../../static/peng/id03-13.jpg",
+        "name":"wb17002226485524",
+        "plconment":"很喜欢，表针很漂亮，快递也很快",
+        "style":"2018-07-14 16：16：28钢；白色；镶钻"
+      },
+      {
+        "nameimg":"../../static/peng/id03-14.jpg",
+        "name":"老****哥",
+        "plconment":"我买了依波路的一款手表，全自动的，但近期我看中了同一品牌其他款式的手表，请问能否调换？",
+
+        "style":"2018-07-14 16：16：28钢 白色；镶钻"
+      },
+      {
+        "nameimg":"../../static/peng/id03-15.jpg",
+        "name":"t****n",
+        "plconment":"表不错，看图片以为表盘很大，实际上不大，看图",
+
+        "style":"2016-03-25 22：41钢； 白色；镶钻"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"四*****光",
+        "plconment":"你好 能支持一下柜台验货吗？",
+        "style":"2016-06-16 11:47钢；白色；镶钻"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"二狗子",
+        "plconment":"喜欢，低调奢华，就是有点硬，适应就好了",
+        "imgs":[
+          {"imgs1":"../../static/peng/perpic05.jpg"},
+          {"imgs1":"../../static/peng/perpic06.jpg"}
+        ],
+        "style":"真皮：白色 共两张图"
+      }
+    ]
+
+  },
+  {
+    "id":"04",
+    "swiper":[
+      {"imgG":"../../static/peng/id04-1.jpg"},
+      {"imgG":"../../static/peng/id04-2.jpg"},
+      {"imgG":"../../static/peng/id04-3.jpg"},
+      {"imgG":"../../static/peng/id04-4.jpg"},
+      {"imgG":"../../static/peng/id04-5.jpg"}
+    ],
+    "price":"￥1989",
+    "yuanJ":"￥2550",
+    "name":"CK-女士Ladies系列 K3G23626 石英女表",
+    "xiaoShou":"432",
+    "style":"钢 银色 1个",
+    "fuKuan":"每月166元×12期",
+    "youhui":[
+      {"rbimG":"../../static/peng/id04-6.jpg","rprice":"￥1989"},
+      {"rbimG":"../../static/peng/battery.jpg","rprice":"￥77"}
+    ],
+    "SPpingjia":[
+      {
+        "nameimg":"../../static/peng/pjpic.jpg",
+        "name":"P哥",
+        "plconment":"非常满意的一次购物体验，从客服到物流都很满意，希望你们能一如既往的做“值得信任的名表电商”。",
+        "imgs":[
+          {"imgs1":"../../static/peng/id04-7.jpg"}
+        ],
+        "style":"2016-09-30 钢；银色 共1张图"
+      }
+    ],
+
+    "ZpinJia":[
+      {
+        "nameimg":"../../static/peng/pjpic.jpg",
+        "name":"P哥",
+        "plconment":"非常满意的一次购物体验，从客服到物流都很满意，希望你们能一如既往的做“值得信任的名表电商”。",
+        "imgs":[
+          {"imgs1":"../../static/peng/id04-7.jpg"}
+        ],
+        "style":"2016-09-30 钢；银色 共1张图"
+      },
+      {
+        "nameimg":"../../static/peng/id04-8.jpg",
+        "name":"花样小白",
+        "plconment":"无疑正品，没关好用，包装精美",
+
+        "style":"2018-08-16 10：40：08钢；银色"
+      },
+      {
+        "nameimg":"../../static/peng/id04-9.jpg",
+        "name":"wi65454656",
+        "plconment":"带了许久，十分喜欢，万表网售后不错",
+
+        "style":"2018-08-26 09：10：28钢 白色"
+      },
+      {
+        "nameimg":"../../static/peng/id04-10.jpg",
+        "name":"悲*****去",
+        "plconment":"很久了！挺好，值得信赖",
+        "style":"2018-07-14 16：16：28钢；银色"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"阳光",
+        "plconment":"不错，好看，买的优惠",
+        "style":"2018-07-14 16：16：28钢；银色"
+      },
+      {
+        "nameimg":"../../static/peng/id04-11.jpg",
+        "name":"大风",
+        "plconment":"表不错，看图片以为表盘很大，实际上不大，看图",
+        "style":"2018-01-02 10:25:21钢；银色"
+      },
+      {
+        "nameimg":"../../static/peng/perIcon.jpg",
+        "name":"石路",
+        "plconment":"给爱人买的，她戴着感觉不错，挺漂亮的，到现在已经有段时间了，除了表壳上有些不明显的小刮擦痕迹，没有其他问题。",
+        "style":"2017-10-15 09：47：38钢；银色"
+      }
+    ]
+
+  }
+]
+

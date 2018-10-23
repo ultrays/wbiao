@@ -1,0 +1,256 @@
+html, body, div, h1, h2, h3, h4, h5, h6, p, dl, dt, dd, ol, ul, li, p, fieldset, form, label, input, legend, table, caption, tbody, tfoot, thead, tr, th, td, textarea, article, aside, audio, canvas, figure, footer, header, mark, menu, nav, section, time, video { margin: 0; padding: 0; }
+h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: normal }
+article, aside, dialog, figure, footer, header, hgroup, nav, section, blockquote, img { display: block; }
+ul, ol { list-style: none; }
+img { border: 0 none; vertical-align: top; }
+/*blockquote, q { quotes: none; }*/
+/*blockquote:before, blockquote:after, q:before, q:after { content: none; }*/
+table { border-collapse: collapse; border-spacing: 0; }
+/*strong, em, i { font-style: normal;}*/
+ins { text-decoration: underline; }
+del { text-decoration: line-through; }
+mark { background: none; }
+input::-ms-clear { display: none !important; }
+/*body { font: 12px/1.5 \5FAE\8F6F\96C5\9ED1, \5B8B\4F53, "Hiragino Sans GB", STHeiti, "WenQuanYi Micro Hei", "Droid Sans Fallback", SimSun, sans-serif;}*/
+a { text-decoration: none; /*color: #666;*/ }
+a:hover { text-decoration: none; }
+body{ background: #ffffff; /*display: -webkit-flex;-webkit-flex-flow: column;-webkit-justify-content: space-between;*/}
+html,body{height: 100%;}
+html{font-size: 26.67vw;}
+
+::-webkit-scrollbar/*整体部分*/
+{
+    width: 0px;
+    height: 0px;
+}
+
+::-webkit-scrollbar-track/*滑动轨道*/
+{
+    -webkit-box-shadow: inset 0 0  0px rgba(0,0,0,0.2);
+    border-radius: 0px;
+    background: #12fafd /*rgba(0,0,0,0.1)*/;
+}
+
+::-webkit-scrollbar-thumb/*滑块*/
+{
+    border-radius:  0px;
+    -webkit-box-shadow: inset 0 0  0px rgba(0,0,0,0.2);
+    background: #12a7fd /*rgba(0,0,0,0.2)*/;
+}
+
+::-webkit-scrollbar-thumb:hover/*滑块效果*/
+{
+    border-radius:  0px;
+    -webkit-box-shadow: inset 0 0  0px rgba(0,0,0,0.2);
+    background: #39fd70 /*rgba(0,0,0,0.4)*/;
+}
+
+/*.icon {*/
+/*width: 1em; height: 1em;*/
+/*vertical-align: -0.15em;*/
+/*fill: currentColor;*/
+/*overflow: hidden;*/
+/*font-size: 0.2rem;*/
+
+header{
+    height:0.45rem;
+    width: 100%;
+    border-bottom: 2px solid #d1af67;
+    background: #262626;
+    display: flex;
+    align-items: center;
+}
+.headerLeft{
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    color: #ffffff;
+    position: relative;
+
+}
+.headerLeft a{
+    width: 0.34rem ;
+    height: 0.44rem;
+    background: url("../image/sprite.png") no-repeat 0px 0px;
+    background-size: 98px 98px;
+}
+.logobox{
+    display: flex;
+    position:absolute;
+    left:50%;
+    transform:translate(-50%);
+}
+.logobox img{
+    width: 0.75rem;
+    height: 0.15rem;
+}
+nav{
+    height: 0.44rem;
+    display: flex;
+    align-items: center;
+    background:#ffffff;
+}
+.swiper-slide_1{
+    width: 0.72rem;
+    display: flex;
+    justify-content: center;
+}
+.swiper-slide_1 a{
+    font-size:0.14rem;
+    font-weight: 600;
+    color: #333;
+}
+.swiper-slide_1:first-child a{
+    color: #d1af67;
+}
+/*banner*/
+.banner{
+    height: 2.6rem;
+    width: 100%;
+    background: #f1f1f1;
+    padding: 0.1rem 0;
+    box-sizing: border-box;
+}
+.forPage{
+    position: relative;
+    width: 100%;
+    height: 2.4rem;
+}
+.forPage img{
+    width: 100%;
+    height: 2.4rem;
+    border-radius: 0.06rem;
+}
+.bannerPage{
+    height: 0.35rem;
+    width: 100%;
+    line-height: 0.35rem;
+    font-size: 0.12rem;
+    border-radius:0 0 0.06rem 0.06rem;
+    text-indent: 0.1rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color:#ffffff ;
+    background: rgba(0,0,0,.5);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+section{
+    width: 100%;
+    background: #ffffff;
+    display: flex;
+    flex-direction: column;
+}
+.sectionTop{
+    padding: 0.15rem;
+    border-bottom: 1px solid #f1f1f1;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    box-sizing: border-box;
+}
+.sectionTopLeft{
+    position: relative;
+}
+.sectionTopLeft img{
+    width: 1.69rem;
+    height: 0.845rem;
+    border-radius: 5px;
+}
+.title{
+    font-size: 0.12rem;
+    color: #666;
+    margin-top: 5px;
+    width: 1.68rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.sort{
+    font-size: 0.12rem;
+    background: #6c6c6c;
+    color: #d1af67;
+    position:absolute;
+    left:0.11rem;
+    top:0.03rem;
+}
+.boxaddress{
+    font-size: 0.12rem;
+    color: #fff;
+    position:absolute;
+    right:0.11rem;
+    top:0.65rem;
+}
+.sectionmain{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 0.5rem;
+}
+.sectionDetail{
+    display: flex;
+    flex-direction: column;
+    padding:0.15rem;
+    border-bottom: 1px solid #f1f1f1;
+}
+.detailTitle{
+    font-size:0.16rem;
+    color: #333;
+    line-height: 0.24rem;
+}
+.detailTitle img{
+    width: 100%;
+    margin-top:0.1rem;
+    margin-bottom: 0.03rem;
+    border-radius: 3px;
+}
+.tips{
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.12rem;
+    color: #999;
+}
+.tips i{
+    font-style: normal;
+}
+footer{
+    width: 100%;
+    height: 0.5rem;
+    background: #262626;
+    position:fixed;
+    left:0;
+    bottom:0;
+    display: flex;
+}
+footer p{
+    flex:1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    font-size:0.12rem;
+    color: #999;
+}
+footer p span{
+    display: block;
+    width: 0.25rem;
+    height: 0.25rem;
+}
+footer .footerFirstP{
+    color: #d1af67;
+}
+.spritebox1{
+    background: url(../image/sprite.png) no-repeat -73px -27px;
+}
+.spritebox2{
+    background: url(../image/sprite.png) no-repeat -73px 0px;
+}
+.spritebox3{
+    background: url(../image/sprite.png) no-repeat 0px -46px;
+}
+.spritebox4{
+    background: url(../image/sprite.png) no-repeat -54px -73px;
+}
